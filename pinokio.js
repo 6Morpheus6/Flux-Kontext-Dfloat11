@@ -1,8 +1,8 @@
 const path = require('path')
 module.exports = {
   version: "3.7",
-  title: "Flux-Kontext-Dfloat11",
-  description: "[NVIDIA ONLY] Gradio demo of Flux Kontext based on Diffusers (Minimum Requirements 12GB VRAM 48GB RAM / Recommended Requirements 24GB VRAM / 48GB RAM)",
+  title: "Flux Kontext-Dfloat11",
+  description: "[NVIDIA ONLY] Gradio demo for Flux Kontext based on Diffusers.",
   icon: "icon.png",
   menu: async (kernel, info) => {
     let installed = info.exists("app/env")
