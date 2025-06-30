@@ -11,7 +11,7 @@ module.exports = {
           "python app.py",
         ],
         on: [{
-          "event": "/http:\\/\\/[^\\s\\/]+:\\d{2,5}(?=\\s|$)/",
+          "event": "/http:\\/\\/[^\\s\\/]+:\\d{2,5}(?=[^\\w]|$)/",
           "done": true
         }]
       }
