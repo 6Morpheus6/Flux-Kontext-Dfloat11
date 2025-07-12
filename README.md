@@ -1,4 +1,3 @@
 # Flux-Kontext.git
 
-A pinokio script for https://huggingface.co/spaces/6Morpheus6/FLUX.1-Kontext-Dev
-
+A pinokio script for https://huggingface.co/spaces/black-forest-labs/FLUX.1-Kontext-Dev
